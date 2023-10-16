@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/admin-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/categoria/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cliente/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configserve_tarea/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/producto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/registry-serve/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/venta/src/main/java" charset="UTF-8" />
+  </component>
+</project>
