@@ -19,6 +19,7 @@ public class Cliente {
     private String dni;
     private boolean sexo;
     private String telefono;
+    private String celular;
     private String direccion;
     private LocalDateTime created_at = LocalDateTime.now();
     private LocalDateTime updated_at = LocalDateTime.now();
